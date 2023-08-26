@@ -48,8 +48,8 @@ Dynamically calculates the conversion from grams to kilograms and displays the r
    
 4. Start the development server.
 
-  ```bash
-  npm start
+   ```bash
+   npm start
 
 5. Open your web browser and visit http://localhost:3000 to use the app.
 
