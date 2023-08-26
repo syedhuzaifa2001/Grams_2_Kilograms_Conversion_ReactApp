@@ -1,0 +1,17 @@
+.button{
+    width: 80%;
+    display:block;
+    margin-top: 62px;
+    margin-left: 9%;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 30px;
+    background-color: rgb(2, 49, 77);
+    color: white;
+    border: 1px solid white;
+    transition: 0.5s all ease-in-out;
+}
+.button:hover{
+    background-color: rgb(39, 92, 143);
+    box-shadow: 2px 1px 8px 4px rgb(126, 125, 125);
+}
